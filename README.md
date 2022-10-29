@@ -35,7 +35,7 @@ git clone https://github.com/NfoTECH/Seamfix_Assessment.git
 ### step 2 - move into the project directory
 
 ```
-cd seamfix-assessment/
+cd seamfix_assessment/
 ```
 
 ### step 3 - Generate the .jar file
@@ -49,7 +49,7 @@ OR
 ### step 4 - run the project
 
 ```
-java -jar SeamFixAssessment-0.0.1-SNAPSHOT.jar
+java -jar seamfix_assessment-0.0.1-SNAPSHOT.jar
 ```
 
 ### NOTE :
@@ -130,7 +130,7 @@ curl --location --request POST 'http://localhost:9090/bv-service/svalidate/wrapp
 }
 ```
 
-## ![This is an image]( seamfix_assessment/src/main/resources/static/lessThanNO.png )
+## ![This is an image](seamfix_assessment/src/main/resources/static/lessThanNO.png)
 
 #### 4. Invalid BVN
 
