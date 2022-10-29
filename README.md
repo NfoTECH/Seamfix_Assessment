@@ -130,7 +130,7 @@ curl --location --request POST 'http://localhost:9090/bv-service/svalidate/wrapp
 }
 ```
 
-## ![This is an image]( seamfix_assessment/src/main/resources/static/lessThanNo.png )
+## ![This is an image]( seamfix_assessment/src/main/resources/static/lessThanNO.png )
 
 #### 4. Invalid BVN
 
