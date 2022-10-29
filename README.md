@@ -86,7 +86,7 @@ curl --location --request POST 'http://localhost:9090/bv-service/svalidate/wrapp
 }
 ```
 
-## ![This is an image](seamfix_assesssment/src/main/resources/static/validBVN.png)
+## ![This is an image](seamfix_assessment/src/main/resources/static/validBVN.png)
 
 #### 2. Invalid BVN (Contains non digits)
 
@@ -108,7 +108,7 @@ curl --location --request POST 'http://localhost:9090/bv-service/svalidate/wrapp
 }
 ```
 
-## ![This is an image](seamfix_assesssment/src/main/resources/static/containsAlpha.png)
+## ![This is an image](seamfix_assessment/src/main/resources/static/containsAlpha.png)
 
 #### 3. Invalid BVN (Contains less than 11 digits)
 
@@ -130,7 +130,7 @@ curl --location --request POST 'http://localhost:9090/bv-service/svalidate/wrapp
 }
 ```
 
-## ![This is an image](seamfix_assesssment/src/main/resources/static/lessThanNo.png)
+## ![This is an image](seamfix_assessment/src/main/resources/static/lessThanNo.png)
 
 #### 4. Invalid BVN
 
@@ -152,11 +152,11 @@ curl --location --request POST 'http://localhost:9090/bv-service/svalidate/wrapp
 }
 ```
 
-## ![This is an image](seamfix_assesssment/src/main/resources/static/invalidBVN.png)
+## ![This is an image](seamfix_assessment/src/main/resources/static/invalidBVN.png)
 
 #### 5. MongoDB Storage
 
-![This is an image](seamfix_assesssment/src/main/resources/static/MongoDBSummary.png)
+![This is an image](seamfix_assessment/src/main/resources/static/MongoDBSummary.png)
 
 ```
 
